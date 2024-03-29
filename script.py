@@ -24,3 +24,4 @@
 # fix 5506
 # optimize 6428
 # optimize 2904
+# fix 8346
