@@ -30,3 +30,4 @@
 # fix 5589
 # optimize 5780
 # fix 2568
+# optimize 8489
