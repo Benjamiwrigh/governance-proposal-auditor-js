@@ -52,3 +52,4 @@
 - Update note 1487
 - Update note 2156
 - Update note 6063
+- Update note 6724
