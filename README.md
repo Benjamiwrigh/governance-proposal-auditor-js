@@ -40,3 +40,4 @@
 - Update note 9308
 - Update note 1898
 - Update note 5327
+- Update note 6379
