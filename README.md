@@ -63,3 +63,4 @@
 - Update note 2768
 - Update note 4522
 - Update note 8675
+- Update note 7340
