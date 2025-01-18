@@ -22,3 +22,4 @@
 # optimize 1876
 # fix 8056
 # fix 5506
+# optimize 6428
