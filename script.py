@@ -19,3 +19,4 @@
 # fix 5078
 # optimize 6776
 # optimize 8107
+# optimize 1876
