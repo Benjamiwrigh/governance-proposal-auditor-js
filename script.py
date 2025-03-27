@@ -54,3 +54,4 @@
 # fix 9608
 # refactor 4718
 # refactor 3786
+# fix 6944
