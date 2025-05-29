@@ -1,2 +1,3 @@
 # auto-createdrequests==2.4.3
 web3==1.1.3
+requests==2.9.4
